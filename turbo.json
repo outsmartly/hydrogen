@@ -46,7 +46,7 @@
       "dependsOn": ["@shopify/hydrogen#build"]
     },
     "@shopify/hydrogen#build": {
-      "dependsOn": ["@shopify/hydrogen-react#build"]
+      "dependsOn": ["@outsmartly/shopify-hydrogen#build"]
     },
     "skeleton#build": {
       "dependsOn": [
