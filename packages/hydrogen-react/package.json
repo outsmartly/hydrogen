@@ -1,5 +1,5 @@
 {
-  "name": "@shopify/hydrogen-react",
+  "name": "@outsmartly/hydrogen-react",
   "version": "2025.1.3",
   "description": "React components, hooks, and utilities for creating custom Shopify storefronts",
   "homepage": "https://github.com/Shopify/hydrogen/tree/main/packages/hydrogen-react",
